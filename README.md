@@ -104,3 +104,5 @@ Bar Charts (Class, Gender, Fare Impact)
 Heatmaps (Age vs Class)
 
 Interactive slicers (Gender, Embarked, Family Type)
+
+linkdin profile: https://www.linkedin.com/in/yogeswara-datta-didugu-32a09738a/
